@@ -1,7 +1,7 @@
 {
   "name": "Not My Type",
   "description": "Makes the typography of the web just a little bit worse 💘",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": [
     "*://*/*",
     "tabs"
