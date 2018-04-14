@@ -10,6 +10,21 @@
 .nmt_tracking {
 	letter-spacing: 0.05em !important;
 }
+.nmt_tracking-very-small {
+	letter-spacing: -0.5ex !important;
+}
+.nmt_tracking-small {
+	letter-spacing: -0.1ex !important;
+}
+.nmt_tracking-very-big {
+	letter-spacing: 0.4em !important;
+}
+.nmt_wordspacing {
+	word-spacing: -0.1em;
+}
+.nmt_smaller {
+	font-size: 0.98em;
+}
 span {
 	transform: rotate(0.1deg);
 }
