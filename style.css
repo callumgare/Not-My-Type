@@ -1,0 +1,15 @@
+.nmt_arial {
+	font-family: 'Arial';
+}
+.nmt_house {
+	color: rgb(51, 51, 236);
+}
+.nmt_minotaur {
+	color: rgb(184, 53, 53);
+}
+.nmt_tracking {
+	letter-spacing: 0.05em !important;
+}
+span {
+	transform: rotate(0.1deg);
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Not My Type",
+  "description": "Makes the typography of the web just a little bit worse 💘",
+  "version": "1.0",
+  "permissions": [
+    "*://*/*",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "css": ["style.css"],
+      "js": ["script.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "manifest_version": 2,
+  "icons": { 
+    "1000": "logo_128.png",
+    "128": "logo_128.png"
+  }
+}
